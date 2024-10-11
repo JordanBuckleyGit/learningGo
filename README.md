@@ -1,4 +1,4 @@
-#GO Application
+# GO Application
 
 This Go application is a simple way to practice web programming and CSV file processing. Users can upload a CSV file and see real-time calculations based on the data they provide.
 
